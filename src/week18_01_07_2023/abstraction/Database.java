@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public abstract class Database {
 
 /*
-  - We can ahve cons inside the abstract class
+  - We can have constructor inside the abstract class
   - In order to initialize the common elements or variables in abstract class
   - We are putting rule for the constructor
     */
